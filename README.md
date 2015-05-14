@@ -1,0 +1,3 @@
+# quake-4-it266
+i made some modifications changing the power of the weapons .From the first time that i used quake 4 i was engrosed by the gaming modifing the power of each weapon since the grenade,blaster and rocket.The first time i modify the radio and the velocity .After my first modification i just said wow why when i shut my grenade i went back and died? so i tried to change the values testing the game each time.The best experience that i have was trying and i learned that there was nothing better than try instead of being a watcher.I am not a programer and i had more confidence with quake 2 instead of quake 4 .I can not deny that the graphics for quke 4 where better(  i am a designer so what i always catch for a game are graphics)
+
